@@ -1,8 +1,15 @@
-# Rider in Unity
-This is the source code for a Rider replica created during a Twitch livestream.
+"일부 장면에서는 합성 음악을 썼습니다. 저작권은 원저작자한테 있습니다"
 
-Everything is made using Unity.
+유니티 버전: 2020.3.25
 
-Check out my [YouTube Channel](http://youtube.com/brackeys) for more tutorials. The livestream will be uploaded there as well.
+Brackeys님의 소스코드를 변형한것을 알려드립니다. (https://github.com/Brackeys/Rider-Replica)
 
-Everything is free to use also commercially (public domain).
+저작권: MIT 라이선스
+
+Copyright (c) 2021 Yangmaps
+
+이에 따라 사본을 얻는 모든 사람에게 무료로 허가됩니다. 이 소프트웨어 및 관련 문서 파일("소프트웨어")의 권리를 포함하되 이에 국한되지 않는 제한 없이 소프트웨어에서 사용, 복사, 수정, 병합, 게시, 배포, 라이선스 재판매 및/또는 판매 소프트웨어 사본, 그리고 소프트웨어를 받는 사람에게 허용 다음 조건에 따라 제공됩니다.
+
+위의 저작권 표시 및 이 허가 표시는 모든 소프트웨어의 사본 또는 상당 부분.
+
+소프트웨어는 어떠한 종류의 명시적 또는 보증 없이 "있는 그대로" 제공됩니다. 암시적(상품성 보증을 포함하되 이에 국한되지 않음), 특정 목적에의 적합성 및 비침해. 어떠한 경우에도 저자 또는 저작권 소유자는 모든 클레임, 손해 또는 기타 문제에 대해 책임을 집니다. 계약, 불법 행위 또는 기타 행위로 인해 발생하는 책임, 소프트웨어 또는 사용 또는 기타 거래와 관련하여 또는 이와 관련하여.
